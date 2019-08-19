@@ -1,0 +1,25 @@
+{
+  "name": "goma-label-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonfile": "^5.0.0",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanserdi/goma-label-server.git"
+  },
+  "author": "lanserdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lanserdi/goma-label-server/issues"
+  },
+  "homepage": "https://github.com/lanserdi/goma-label-server#readme"
+}
