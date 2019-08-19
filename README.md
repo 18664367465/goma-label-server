@@ -1,1 +1,1 @@
-# goma-label-server
+## GOMA-Label-Server V2
